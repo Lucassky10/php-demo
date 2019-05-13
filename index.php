@@ -44,7 +44,7 @@
 <div id="php">
     <?php
 
-    echo "Code.Push.Shift.<br> Exectuté sur une image php";
+    echo "Code.Push.Shift.<br> Exéctuté sur une image php";
 
     ?>
 </div>
